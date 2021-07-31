@@ -1,6 +1,8 @@
 # ExamenADD
+#
 1.-
 extrae tweets de zonas con elm tipo de dato csv de 3 lugares
+#
 2.- 
 extrae tweets con el track juegos_olimpicos
 3.- 
